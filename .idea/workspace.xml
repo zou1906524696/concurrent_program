@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8873a806-a324-41d7-a43a-22434f5ed769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/NewRunnableTerminated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/DisappearRequest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedClassClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedClassStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedObjectCodeBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedObjectMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedcode/DisappearRequest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectCodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayIntertupted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayIntertupted.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,24 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/sixstates/NewRunnableTerminated.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.java">
+        <entry file="file://$PROJECT_DIR$/src/synchronizedcode/DisappearRequest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-              <folding>
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="648">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -86,6 +80,11 @@
         <option value="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightWayIntertupted.java" />
         <option value="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/NewRunnableTerminated.java" />
         <option value="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.java" />
+        <option value="$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectCodeBlock.java" />
+        <option value="$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectMethod.java" />
+        <option value="$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassStatic.java" />
+        <option value="$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassClass.java" />
+        <option value="$PROJECT_DIR$/src/synchronizedcode/DisappearRequest1.java" />
       </list>
     </option>
   </component>
@@ -101,6 +100,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,27 +117,19 @@
               <item name="concurrent_program" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrent_program" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadcoreknowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrent_program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrent_program" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadcoreknowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="sixstates" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizedcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582098634991" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mall_zhifu" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582187118745" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -166,13 +158,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlockedWaitingTimedWaiting">
-    <configuration name="BlockedWaitingTimedWaiting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.sixstates.BlockedWaitingTimedWaiting" />
+  <component name="RunManager" selected="Application.DisappearRequest1">
+    <configuration name="DisappearRequest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedcode.DisappearRequest1" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.sixstates.*" />
+          <option name="PATTERN" value="synchronizedcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewRunnableTerminated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.sixstates.NewRunnableTerminated" />
+    <configuration name="SynchronizedClassClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedClassClass" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.sixstates.*" />
+          <option name="PATTERN" value="synchronizedcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightWayIntertupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.stopthread.RightWayIntertupted" />
+    <configuration name="SynchronizedClassStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedClassStatic" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.stopthread.*" />
+          <option name="PATTERN" value="synchronizedcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrongWayVolatileCantStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.stopthread.volatiledemo.WrongWayVolatileCantStop" />
+    <configuration name="SynchronizedObjectCodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedObjectCodeBlock" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.stopthread.volatiledemo.*" />
+          <option name="PATTERN" value="synchronizedcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrongWayVolatileFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.stopthread.volatiledemo.WrongWayVolatileFixed" />
+    <configuration name="SynchronizedObjectMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedObjectMethod" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.stopthread.volatiledemo.*" />
+          <option name="PATTERN" value="synchronizedcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlockedWaitingTimedWaiting" />
-        <item itemvalue="Application.NewRunnableTerminated" />
-        <item itemvalue="Application.RightWayIntertupted" />
-        <item itemvalue="Application.WrongWayVolatileFixed" />
-        <item itemvalue="Application.WrongWayVolatileCantStop" />
+        <item itemvalue="Application.DisappearRequest1" />
+        <item itemvalue="Application.SynchronizedClassClass" />
+        <item itemvalue="Application.SynchronizedClassStatic" />
+        <item itemvalue="Application.SynchronizedObjectMethod" />
+        <item itemvalue="Application.SynchronizedObjectCodeBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -252,60 +244,77 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582015049247</updated>
-      <workItem from="1582015054824" duration="26653000" />
+      <workItem from="1582015054824" duration="27451000" />
+      <workItem from="1582166438585" duration="6392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26653000" />
+    <option name="totallyTimeSpent" value="33843000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2386609" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3002364" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4491726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946004" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053996" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.getState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getState</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge.fxml" />
     <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/createthread/BothRunnableThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -474,23 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileCantStop2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Myjdk/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="2044" column="18" selection-start-line="2044" selection-start-column="12" selection-end-line="2044" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileCantStop2.java" />
     <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -535,12 +528,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+        <state relative-caret-position="378">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="e#472#473#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Myjdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="748" column="7" lean-forward="true" selection-start-line="748" selection-start-column="7" selection-end-line="748" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectCodeBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="79" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/synchronizedcode/SynchronizedObjectMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/synchronizedcode/SynchronizedClassStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/synchronizedcode/DisappearRequest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
         </state>
       </provider>
     </entry>
