@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8873a806-a324-41d7-a43a-22434f5ed769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threadcoreknowledge/MultiThreadsError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/background/MultiThreadError7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/META-INF/concurrent_program.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedToLock13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedToLock13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/BothRunnableThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/BothRunnableThread$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed$Producer.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadsError">
-    <configuration name="MultiThreadsError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.MultiThreadsError" />
+  <component name="RunManager" selected="Application.MultiThreadError7">
+    <configuration name="MultiThreadError3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="background.MultiThreadError3" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.*" />
+          <option name="PATTERN" value="background.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedClassStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedClassStatic" />
+    <configuration name="MultiThreadError4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="background.MultiThreadError4" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="synchronizedcode.*" />
+          <option name="PATTERN" value="background.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedToLock13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedToLock13" />
+    <configuration name="MultiThreadError5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="background.MultiThreadError5" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="synchronizedcode.*" />
+          <option name="PATTERN" value="background.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedYesAndNo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronizedcode.SynchronizedYesAndNo6" />
+    <configuration name="MultiThreadError6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="background.MultiThreadError6" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="synchronizedcode.*" />
+          <option name="PATTERN" value="background.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseMyUncaughtExceptionHanlder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadcoreknowledge.uncaughtexception.UseMyUncaughtExceptionHanlder" />
+    <configuration name="MultiThreadError7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="background.MultiThreadError7" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadcoreknowledge.uncaughtexception.*" />
+          <option name="PATTERN" value="background.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiThreadsError" />
-        <item itemvalue="Application.SynchronizedToLock13" />
-        <item itemvalue="Application.SynchronizedYesAndNo6" />
-        <item itemvalue="Application.SynchronizedClassStatic" />
-        <item itemvalue="Application.UseMyUncaughtExceptionHanlder" />
+        <item itemvalue="Application.MultiThreadError7" />
+        <item itemvalue="Application.MultiThreadError3" />
+        <item itemvalue="Application.MultiThreadError6" />
+        <item itemvalue="Application.MultiThreadError5" />
+        <item itemvalue="Application.MultiThreadError4" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
