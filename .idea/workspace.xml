@@ -1,24 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8873a806-a324-41d7-a43a-22434f5ed769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CeilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/OperatorAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/OperatorDevide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/OperatorMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/OperatorReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/SwitchOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplefactory/TestSimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/CashContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/CashDebate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/CashNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/CashReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/Cashsuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategymode/StrategyTest.java" afterDir="false" />
+    <list default="true" id="4058de4d-68fa-4981-9455-dd48ba301d51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/META-INF/concurrent_program.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/META-INF/concurrent_program.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$EventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5$MySource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$EventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7$MySource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/MultiThreadError7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/background/PointMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/StrategyAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/StrategyMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/StrategyReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/strategy/TestStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/Decompilation14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/DisappearRequest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/LockExample15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedClassClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedClassStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedDifferentMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedException9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedObjectCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedObjectMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedOtherMethod11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedRecursion10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedStaticAndNormal8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedSuperClass12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedToLock13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/SynchronizedYesAndNo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/synchronizedcode/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/MultiThreadsError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/BothRunnableThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/BothRunnableThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/BothRunnableThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/RunnableStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/ThreadStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/AnonymousInnerClassDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/AnonymousInnerClassDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/AnonymousInnerClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/DemoTimmerTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/DemoTimmerTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/ThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/createthread/wrongways/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/sixstates/NewRunnableTerminated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/startthread/CantStartTwice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/startthread/StartAndRunMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/CantInterrupt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightStopThreadInProd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightStopThreadInProd2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayIntertupted$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayIntertupted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayStopThreadWithSleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayStopThreadWithSleepEveryLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RightWayThreadWithoutSleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RunThrowException$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/RunThrowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/StopThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileCantStop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed$Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/CurrentThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/Id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/JoinPrinciple$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/JoinPrinciple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/ProducerConsumerModel$EventStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/ProducerConsumerModel$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/ProducerConsumerModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/Wait$Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/Wait$Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/Wait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyAll$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyReleaseOwnMonitor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyReleaseOwnMonitor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyReleaseOwnMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/uncaughtexception/CantCatchDirectly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/uncaughtexception/ExceptionInChildThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/uncaughtexception/MyUncaughtExceptionHanlder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/threadcoreknowledge/uncaughtexception/UseMyUncaughtExceptionHanlder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/MultiThreadsError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/BothRunnableThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/RunnableStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/ThreadStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/wrongways/AnonymousInnerClassDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/wrongways/DemoTimmerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/wrongways/Lambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/createthread/wrongways/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/BlockedWaitingTimedWaiting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/sixstates/NewRunnableTerminated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/startthread/CantStartTwice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/startthread/StartAndRunMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/CantInterrupt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightStopThreadInProd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightStopThreadInProd2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightWayIntertupted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightWayStopThreadWithSleep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightWayStopThreadWithSleepEveryLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RightWayThreadWithoutSleep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/RunThrowException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/StopThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileCantStop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/stopthread/volatiledemo/WrongWayVolatileFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/CurrentThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/Id.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/JoinPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/ProducerConsumerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/Wait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/threadobjectclasscommonmethods/WaitNotifyReleaseOwnMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/uncaughtexception/CantCatchDirectly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/uncaughtexception/ExceptionInChildThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/uncaughtexception/MyUncaughtExceptionHanlder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadcoreknowledge/uncaughtexception/UseMyUncaughtExceptionHanlder.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +151,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Enum" />
         <option value="JavaFXApplication" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -50,11 +168,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YEWnN0OLBeUdDNir1lCqTGIRgE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583038088313" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../community" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travel_SpringBoot" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -84,20 +205,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrategyTest">
-    <configuration name="CeilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CeilTest" />
+  <component name="RunManager" selected="Application.CountVowel">
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Change" />
       <module name="concurrent_program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategymode.StrategyTest" />
+    <configuration name="CountVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setdemo.CountVowel" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategymode.*" />
+          <option name="PATTERN" value="setdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simplefactory.TestSimpleFactory" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.shape.Shapes" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simplefactory.*" />
+          <option name="PATTERN" value="polymorphism.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy.TestStrategy" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.turnup.Test" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="polymorphism.turnup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStrategy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy.moneyCount.TestStrategy2" />
+    <configuration name="setdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setdemo.setdemo" />
       <module name="concurrent_program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.moneyCount.*" />
+          <option name="PATTERN" value="setdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrategyTest" />
-        <item itemvalue="Application.TestStrategy2" />
-        <item itemvalue="Application.TestStrategy" />
-        <item itemvalue="Application.TestSimpleFactory" />
-        <item itemvalue="Application.CeilTest" />
+        <item itemvalue="Application.CountVowel" />
+        <item itemvalue="Application.Change" />
+        <item itemvalue="Application.setdemo" />
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
