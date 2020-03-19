@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4058de4d-68fa-4981-9455-dd48ba301d51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/polymorphism/StaticPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/polymorphism/StaticPolymorphism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/prototype/Resume2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/prototype/Resume2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/concurrent_program/prototype/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent_program/prototype/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prototype/Resume2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prototype/Resume2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prototype/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prototype/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
